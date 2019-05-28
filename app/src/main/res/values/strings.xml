@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYSampleExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_heading">NY Times Most Popular</string>
+</resources>
