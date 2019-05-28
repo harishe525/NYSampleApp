@@ -13,7 +13,9 @@ Libraries used in this project
    . Data binding
    . Junit
 
+Retrofit is an awesome type-safe HTTP client for Android and Java built by awesome folks at Square. Retrofit makes it easy to consume JSON or XML data which is parsed into Plain Old Java Objects (POJOs).
 
+RxJava is a reactive implementation to bring this concept to the Android platform. Android applications are a perfect place to start your exploration of the reactive world. It’s even easier with RxAndroid, a library that wraps asynchronous UI events 
 
 Here i used to Android MVVM design pattern to develop the app
 MVVM stands for Model, View, ViewModel.
