@@ -8,10 +8,10 @@ The app has following packages:
 
 
 Libraries used in this project
-    LiveData
-    ViewModel
-    Data binding
-    Junit
+   . LiveData
+   . ViewModel
+   . Data binding
+   . Junit
 
 
 
